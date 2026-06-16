@@ -6,8 +6,6 @@ import Tasks from "./pages/Tasks";
 import TaskDetails from "./pages/TaskDetails";
 import Completed from "./pages/Completed";
 import NotFound from "./pages/NotFound";
-           
-
 
 export default function App() {
   return (
